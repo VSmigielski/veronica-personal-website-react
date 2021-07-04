@@ -17,7 +17,7 @@ const Footer = () => {
                 </a>
             </div>
             <p className="text-center mt-5">
-                This project was coded by Veronica Smigielski and it is <a href="https://github.com/VSmigielski/portfolio-website" target="_blank" rel="noreferrer">open-sourced</a>
+                This project was coded by Veronica Smigielski and it is <a href="https://github.com/VSmigielski/veronica-personal-website-react" target="_blank" rel="noreferrer">open-sourced</a>
             </p>
         </footer>
     )
