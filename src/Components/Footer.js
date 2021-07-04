@@ -1,5 +1,6 @@
 import React from 'react'
 import '../Assets/portfolio.css'
+import {NavLink} from 'react-router-dom'
 
 const Footer = () => {
     return (
@@ -14,7 +15,7 @@ const Footer = () => {
                     </p>
                 </div>
                <div>
-                <a href="/contact" className="btn btn-branding mt-3" title="Contact Veronica">Contact me</a>
+                <NavLink to="/contact" className="btn btn-branding mt-3" title="Contact Veronica">Contact me</NavLink>
                </div>
             </div>
             <div className="d-flex justify-content-center mb-5">
