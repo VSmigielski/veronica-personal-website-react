@@ -18,7 +18,7 @@ const Project = ({title, image, description, classRow}) => {
                         <p class="mb-5 text-muted">
                         {description}
                         </p>
-                        <NavLink href="/work" class="btn btn-branding-outline">Learn More</NavLink>
+                        <NavLink to="/work" class="btn btn-branding-outline">Learn More</NavLink>
                     </div>
                 </div>
             </div>
