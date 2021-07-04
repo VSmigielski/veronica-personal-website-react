@@ -16,7 +16,7 @@ const Main = () => {
                 the workshops that SheCodes offers to extend her studies. During March and April of 2021, she was trained
                 by mThree for Java Full-Stack Development. She is currently studying towards another Bachelors degree in Cybersecurity.
                             </p>
-                            <a href="/work.html" className="btn btn-branding">View my projects</a>
+                            <NavLink to="/work" className="btn btn-branding">View my projects</NavLink>
                         </div>
                         </div>
                         <div className="col-lg-6">
