@@ -11,10 +11,10 @@ const Main = () => {
                             <h1>Hi, I am Veronica Smigielski</h1>
                             <h2 className="mt-5 mb-4">Full-Stack Developer</h2>
                             <p className="mb-4">
-                            Veronica has a Bachelor of Science in Management Information Systems from Columbia College in MO. The classNamees
-                            that she took went over both front and back end programming. Throughout the past few months, she has taken all
-                            the workshops that SheCodes offers to extend her studies. During March and April of 2021, she was trained
-                            by mThree for Java Full-Stack Development.
+                            Veronica has a Bachelor of Science in Management Information Systems from Columbia College in MO. The classes
+                that she took went over both front and back end programming. Throughout the past few months, she has taken all
+                the workshops that SheCodes offers to extend her studies. During March and April of 2021, she was trained
+                by mThree for Java Full-Stack Development. She is currently studying towards another Bachelors degree in Cybersecurity.
                             </p>
                             <a href="/work.html" className="btn btn-branding">View my projects</a>
                         </div>
