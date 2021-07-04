@@ -1,5 +1,6 @@
 import React from 'react'
 import {Container} from 'react-bootstrap'
+import {NavLink} from 'react-router-dom'
 
 const Project = ({title, image, description, classRow}) => {
 
@@ -17,7 +18,7 @@ const Project = ({title, image, description, classRow}) => {
                         <p class="mb-5 text-muted">
                         {description}
                         </p>
-                        <a href="/work" class="btn btn-branding-outline">Learn More</a>
+                        <NavLink href="/work" class="btn btn-branding-outline">Learn More</NavLink>
                     </div>
                 </div>
             </div>
