@@ -58,7 +58,7 @@ margin: 0;
 
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--heading-font-family);
-    font-weight: bold;
+    font-weight: 700;
 }
 
 h1 {
@@ -118,7 +118,7 @@ nav a:hover, nav li.active a {
 
 .hero p {
     font-size: 36px;
-    font-weight: bold;
+    font-weight: 700;
     margin: 0;
 }
 
