@@ -22,7 +22,7 @@ const Footer = () => {
                 <a href="mailto:veronicasmigielski@gmail.com" className="email-link" title="Email Veronica">veronicasmigielski@gmail.com</a>
             </div>
 
-            <div className="social-links d-flex justify-content-center mb-5">
+            <div className="social-links d-flex justify-content-center">
                 <a href="https://github.com/VSmigielski" target="_blank" title="GitHub Profile" rel="noreferrer">
                     <i className="fab fa-github"></i>
                 </a>
