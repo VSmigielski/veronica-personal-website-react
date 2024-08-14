@@ -19,7 +19,7 @@ const Main = () => {
                         </p>
                         <h3>LinkedIn</h3>
                         <p className="ms-5">
-                            <a href="https://www.linkedin.com/in/veronica-mccormick-b85025174/" target="_blank" title="LinkedIn Profile" rel="noreferrer">Veronica McCormick</a>
+                            <a href="https://www.linkedin.com/in/veronica-smigielski-b85025174/" target="_blank" title="LinkedIn Profile" rel="noreferrer">Veronica Smigielski</a>
                         </p>
                     </div>
                 </div>
